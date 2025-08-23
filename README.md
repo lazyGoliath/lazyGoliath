@@ -29,8 +29,8 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **lazygolith@gmail.com**
-
+- 📫 How to reach me: [lazygolith@gmail.com](mailto:lazygolith@gmail.com)
+- 
 - ⚡ Fun fact **I can code**
 
 <!--<h3 align="left">Connect with me:</h3>
@@ -51,6 +51,9 @@
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=lazygoliath&theme=onedark" />
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/lazygoliath/lazygoliath/main/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lazygoliath/lazygoliath/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/lazygoliath/lazygoliath/output/github-contribution-grid-snake.svg">
+</picture>
 
 ![Animation Sauce](https://taozhi.medium.com/how-to-add-a-snake-game-to-your-github-page-d742918fd733)
