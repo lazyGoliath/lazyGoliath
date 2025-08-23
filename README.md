@@ -56,4 +56,4 @@
   <img alt="snake animation" src="https://raw.githubusercontent.com/lazygoliath/lazygoliath/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Animation Sauce](https://taozhi.medium.com/how-to-add-a-snake-game-to-your-github-page-d742918fd733)
+[Animation Sauce](https://taozhi.medium.com/how-to-add-a-snake-game-to-your-github-page-d742918fd733)
