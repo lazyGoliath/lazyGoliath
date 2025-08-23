@@ -49,3 +49,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lazygoliath&" alt="lazygoliath" /></p>
 
+![Snake animation](https://raw.githubusercontent.com/lazyGoliath/lazyGoliath/output/github-contribution-grid-snake-dark.svg)
+
+![Animation Sauce](https://taozhi.medium.com/how-to-add-a-snake-game-to-your-github-page-d742918fd733)
