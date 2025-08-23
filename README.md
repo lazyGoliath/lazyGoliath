@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [_](/)
+<!--- 🔭 I’m currently working on [_](/)-->
 
 - 🌱 I’m currently learning **Java Microservices and Spring AI.**
 
-- 👯 I’m looking to collaborate on [_](/)
+<!---- 👯 I’m looking to collaborate on [_](/)-->
 
-- 🤝 I’m looking for help with [_](/)
+<!---- 🤝 I’m looking for help with [_](/)-->
 
-- 👨‍💻 All of my projects are available at [/](/)
+<!---- 👨‍💻 All of my projects are available at [/](/)-->
 
-- 📝 I regularly write articles on [/](/)
+<!---- 📝 I regularly write articles on [/](/)-->
 
 - 💬 Ask me about **Java**
 
