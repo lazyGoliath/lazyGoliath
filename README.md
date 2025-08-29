@@ -27,7 +27,7 @@
 
 <!---- 📝 I regularly write articles on [/](/)-->
 
-- 💬 Ask me about **Java**
+- 💬 Happy to help with **Java**.
 
 - 📫 How to reach me: [lazygolith@gmail.com](mailto:lazygolith@gmail.com)
 - 
