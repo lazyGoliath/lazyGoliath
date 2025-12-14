@@ -24,7 +24,7 @@
 <!---- 👨‍💻 All of my projects are available at [/](/)-->
 <!---- 📝 I regularly write articles on [/](/)-->
 - 💬 Happy to help with <b>Java</b>.<br>
-- 📫 How to reach me: [lazygolith@gmail.com](mailto:lazygolith@gmail.com)<br>
+- - 📫 How to reach me: <a href="mailto:lazygolith@gmail.com">Email me</a> <br>
 - ⚡ Fun fact <b>I can code</b><br>
 
 <!--<h3 align="left">Connect with me:</h3>
@@ -263,4 +263,7 @@
 	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lazygoliath/lazygoliath/output/github-contribution-grid-snake-dark.svg">
 		<img alt="snake animation" src="https://raw.githubusercontent.com/lazygoliath/lazygoliath/output/github-contribution-grid-snake.svg">
 </picture>
-[Animation Sauce](https://taozhi.medium.com/how-to-add-a-snake-game-to-your-github-page-d742918fd733)
+<br>
+<a href="https://taozhi.medium.com/how-to-add-a-snake-game-to-your-github-page-d742918fd733">
+  Animation Sauce
+</a>
